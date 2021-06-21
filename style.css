@@ -6,19 +6,24 @@ h1{
     color: steelblue;
 
 }
+.background{
+    background: url(standre.jpeg);
+    background-size: cover;
+}
 .blog{
+    color:aliceblue;
     background-color: rgba(0, 0, 0, 0.2);
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
 .design{
     color: yellowgreen;
-    font-size: 100%;
+    font-size: 170%;
     
 }
 .logo{
-    height: 18px;
-    width: 18px;
+    height: 40px;
+    width: 40px;
 }
 .none{
     background-color: transparent;
@@ -32,7 +37,7 @@ a{
     text-align: center;
 }
 .blogText{
-    color:rgb(92, 33, 33);
+    color: bisque;
 }
 
 .card{
