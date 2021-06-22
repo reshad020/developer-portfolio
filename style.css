@@ -1,5 +1,5 @@
 .heading{
-    padding-top: 20%;
+    padding-top: 15%;
     text-align: center;
     font-size: 500%;
     
@@ -63,4 +63,12 @@ a{
 }
 .next{
     text-align: center;
+}
+.mainpage{
+    color: blanchedalmond;
+    font-size: 100%;
+}
+.cover-image{
+    height: 200px;
+    width: 140px;
 }
