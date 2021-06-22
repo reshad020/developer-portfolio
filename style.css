@@ -1,9 +1,9 @@
-h1{
+.heading{
     padding-top: 10%;
     text-align: center;
+    font-size: 500%;
     
-    
-    color: steelblue;
+    color: rgb(190, 224, 252);
 
 }
 .background{
@@ -30,6 +30,7 @@ h1{
 }
 #decor{
     color: steelblue;
+    font-size: 130%;
     text-align: center;
     
 }
