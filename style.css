@@ -8,7 +8,7 @@
 }
 .background{
     background: url(standre.jpeg);
-    background-size: cover;
+    width:100%;
 }
 .blog{
     color:aliceblue;
