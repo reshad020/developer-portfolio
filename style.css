@@ -58,7 +58,7 @@ a{
     text-align: center;
 }
 .waniya{
-    height: 100%;
+    width: 100%;
 }
 .next{
     text-align: center;
@@ -70,4 +70,10 @@ a{
 .cover-image{
     height: 300px;
     width: 200px;
+}
+.next-page{
+    text-align: center;
+    background-color: blanchedalmond;
+    font-style: oblique;
+    font-size: 200%;
 }
